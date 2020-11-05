@@ -1,0 +1,42 @@
+@media (max-width: 991px) {
+  	.footer-menu {
+    	padding-left: 0
+  	}
+}
+
+@media (max-width: 731px) {
+  	.footer-area img {
+    	padding-left: 90px;
+  	}
+	.footer-menu {
+		text-align: center;
+	}
+}
+
+@media (max-width: 667px) {
+  	.footer-area img {
+    	padding-left: 75px;
+  	}
+	.footer-menu {
+		text-align: center;
+	}
+	.page-title h1 {
+		padding-top: 6.5em;
+		padding-bottom: 6.5em;
+	}
+	.about-me {
+		padding-top: 7em;
+		padding-bottom: 7em;
+		padding-left: 4em;
+		padding-right: 4em;
+	}
+}
+
+@media (max-width: 320px) {
+  	.footer-area img {
+    	padding-left: 45px;
+  	}
+	.footer-menu {
+		text-align: center;
+	}
+}
