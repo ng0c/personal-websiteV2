@@ -223,18 +223,6 @@ a.fa-github:hover {
     text-decoration: none;
 }
 
-.fa-youtube {
-    background: #dd4b39;
-    color: white;
-}
-
-a.fa-youtube:hover {
-    background: white;
-    color: #dd4b39;
-    text-decoration: none;
-}
-
-
 ul {
   padding: 0;
   margin: 0
